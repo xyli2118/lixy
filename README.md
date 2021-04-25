@@ -25,7 +25,7 @@
 #include<stdio.h>
 int main()
 {
-    printf("welcome!\n");
+    printf("Hello World!\n");
     return 0;
 }
 ```  
@@ -39,4 +39,4 @@ int main()
 
 ##  [link](sce.md)
 
-~~lixinagyi is beautiful~~
+~~This is a word.~~
