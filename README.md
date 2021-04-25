@@ -1,15 +1,21 @@
 ## fghj
 #### dfghj
 
+* **most popular** markup languages.
+* which words and phrases should look different.
+* file displayed in the Atom text editor.
 
+1. &#160;&#160;&#160;&#160;&#160;&#160;communicate with each other.
+2. &#160;&#160;&#160;&#160;&#160;&#160;Researchers or students some extended syntax is different.
+3. &#160;&#160;&#160;&#160;&#160;&#160;Job seekers. Used to create a resume. 
 ----------------------------------------------------------------------------------------------------------------------------------
 ####  Makedown grammer
-| Common grammer | Detailed explanation | Shortcut key 
+| A | B | C
 |----------------:|-----------------:|--------:|
-| *Italics* | none | Ctrl+I |
-| **bold** | none | Ctrl+B |
-| #First level title | Add a space after # | none |
-| ##Secondary title | By analogy, the three-level titles are three "#" | none |
+| *Italics* | i1 | i2 |
+| **bold** | b1 | b2 |
+| D | E | F |
+| H | J | Q |
 
 
 ----------------------------------------------------------------------------------------------------------------------------------
