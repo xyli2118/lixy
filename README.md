@@ -19,7 +19,7 @@
 #include<stdio.h>
 int main()
 {
-    printf("This is a code block!\n");
+    printf("welcome!\n");
     return 0;
 }
 ```  
