@@ -31,6 +31,6 @@ int main()
 ## [Image](makedown.jpg)
 ## [web](https://img2.baidu.com/it/u=3211231239,1842853752&fm=26&fmt=auto&gp=0.jpg)
 
-##  [link](sec.md)
+##  [link](sce.md)
 
 ~~lixinagyi is beautiful~~
