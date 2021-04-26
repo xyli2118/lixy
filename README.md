@@ -4,9 +4,10 @@
 * **Markdown** is a lightweight markup language.
 * Because of Markdown's lightweight, easy-to-read, and easy-to-write features, and support for pictures, charts, and math, many websites use Markdown extensively to write help documents or post messages on forums. Such as GitHub, Reddit, Diaspora, Stack Exchange, OpenStreetMap, SourceForge, Short Books, etc., can even be used to write e-books.
 
-1. &#160;&#160;&#160;&#160;&#160;&#160;communicate with each other.
-2. &#160;&#160;&#160;&#160;&#160;&#160;Researchers or students some extended syntax is different.
-3. &#160;&#160;&#160;&#160;&#160;&#160;Job seekers. Used to create a resume. 
+* Markdown features
+  1. &#160;&#160;&#160;&#160;The writing process is smooth.
+  2. &#160;&#160;&#160;&#160;The format does not change with the editor.
+  3. &#160;&#160;&#160;&#160;Writing errors are easy to spot.
 ----------------------------------------------------------------------------------------------------------------------------------
 ####  Makedown grammer
 | Markdown Grammar | Shortcut Key | Effect
